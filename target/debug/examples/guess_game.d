@@ -1,1 +1,0 @@
-/Users/rainer/Documents/workspace/rust-workspace/learn-rust/target/debug/examples/guess_game: /Users/rainer/Documents/workspace/rust-workspace/learn-rust/examples/guess_game.rs /Users/rainer/Documents/workspace/rust-workspace/learn-rust/src/lib.rs

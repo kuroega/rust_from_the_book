@@ -1,1 +1,0 @@
-/Users/rainer/Documents/workspace/rust-workspace/learn-rust/target/debug/examples/struct_demo3: /Users/rainer/Documents/workspace/rust-workspace/learn-rust/examples/struct_demo3.rs /Users/rainer/Documents/workspace/rust-workspace/learn-rust/src/lib.rs
