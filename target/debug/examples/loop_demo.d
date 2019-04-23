@@ -1,0 +1,1 @@
+/Users/rainer/Documents/workspace/rust-workspace/learn-rust/target/debug/examples/loop_demo: /Users/rainer/Documents/workspace/rust-workspace/learn-rust/examples/loop_demo.rs /Users/rainer/Documents/workspace/rust-workspace/learn-rust/src/lib.rs
