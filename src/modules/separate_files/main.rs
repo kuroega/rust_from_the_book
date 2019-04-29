@@ -1,9 +1,9 @@
 mod sound;
 
 fn main() {
-	// absolute path
-	crate::sound::instrument::clarinet();
+    // absolute path
+    crate::sound::instrument::clarinet();
 
-	// relative path
-	sound::instrument::clarinet();
+    // relative path
+    sound::instrument::clarinet();
 }

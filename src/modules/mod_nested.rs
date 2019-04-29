@@ -7,7 +7,7 @@ mod sound {
     }
 
     fn breathe_in() {
-    	// Function body
+        // Function body
     }
 }
 

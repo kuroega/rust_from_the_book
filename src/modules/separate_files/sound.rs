@@ -1,5 +1,5 @@
 pub mod instrument {
-	pub fn clarinet() {
-		// body	
-	}
+    pub fn clarinet() {
+        // body 
+    }
 }
